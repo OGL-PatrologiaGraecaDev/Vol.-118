@@ -1,0 +1,31 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/118/njp.32101077772992/003.png"; bbox 0 0 1856 3049; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 482 1613 913 1660">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 482 1613 913 1660">
+     <span class='ocr_line' id='line_1_1' title="bbox 482 1613 913 1660; baseline -0.005 1"><span class='ocrx_word' id='word_1_1' title='bbox 482 1613 913 1660; x_wconf 68' lang='lat' dir='ltr'>mam</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 504 1683 890 1725">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 504 1683 890 1725">
+     <span class='ocr_line' id='line_1_2' title="bbox 504 1683 890 1725; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 504 1683 890 1725; x_wconf 67' lang='lat' dir='ltr'>mm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 418 1230 978 1880">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 471 1296 926 1725">
+     <span class='ocr_line' id='line_1_3' title="bbox 585 1296 817 1570; baseline 0.039 -84"><span class='ocrx_word' id='word_1_3' title='bbox 585 1296 817 1570; x_wconf 71' lang='grc'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 471 1424 926 1587; baseline -0.002 -9"><span class='ocrx_word' id='word_1_4' title='bbox 471 1424 926 1587; x_wconf 58' lang='lat'>51“</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 482 1613 913 1660; baseline -0.007 -1"><span class='ocrx_word' id='word_1_5' title='bbox 482 1616 592 1660; x_wconf 79' lang='lat' dir='ltr'>PR1</span> <span class='ocrx_word' id='word_1_6' title='bbox 608 1616 655 1658; x_wconf 95' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_7' title='bbox 670 1615 706 1658; x_wconf 91' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_8' title='bbox 721 1613 849 1658; x_wconf 85' lang='lat' dir='ltr'>ETO</span> <span class='ocrx_word' id='word_1_9' title='bbox 865 1614 913 1656; x_wconf 93' lang='lat' dir='ltr'>N</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 504 1683 890 1725; baseline -0.008 0"><span class='ocrx_word' id='word_1_10' title='bbox 504 1684 698 1725; x_wconf 84' lang='lat' dir='ltr'>UNIVE</span> <span class='ocrx_word' id='word_1_11' title='bbox 712 1683 776 1723; x_wconf 88' lang='lat' dir='ltr'>RS</span> <span class='ocrx_word' id='word_1_12' title='bbox 791 1683 890 1722; x_wconf 87' lang='lat' dir='ltr'>ITY</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 570 1751 839 1792">
+     <span class='ocr_line' id='line_1_7' title="bbox 570 1751 839 1792; baseline 0.004 -2"><span class='ocrx_word' id='word_1_13' title='bbox 570 1751 839 1792; x_wconf 84' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
